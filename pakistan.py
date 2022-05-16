@@ -1,0 +1,2 @@
+import pakista
+pakista.menu()
